@@ -38,6 +38,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 html {
     scroll-behavior: smooth;
     height: 100%;
+    width: 100%;
 }
 
 section {
@@ -307,7 +308,7 @@ section{
     background-color: rgb(240, 240, 240);
 }
 .container {
-    min-width: 400px;
+    min-width: 390px;
     max-width: 1200px;
     margin: 0 auto;
 }
